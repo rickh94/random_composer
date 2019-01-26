@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='random-composer',
-    version=1.0,
+    version=1.1,
 
     description="Generate a random composer's name.",
     url='https://github.com/rickh94/random_composer',

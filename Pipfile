@@ -7,7 +7,7 @@ name = "pypi"
 "bs4" = "*"
 requests = "*"
 click = "*"
-"e1839a8" = {path = ".", editable = true}
+e1839a8 = {path = ".",editable = true}
 
 [dev-packages]
 
